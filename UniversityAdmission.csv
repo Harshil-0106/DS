@@ -1,0 +1,24 @@
+Application_No,Student_Name,Age,Gender,Board_Percentage,Entrance_Exam_Score,Branch_Preference,Reservation_Category,Admission_Status,Family_Income
+1001,Aarav Sharma,18,Male,92.5,95,CSE,General,Admitted,850000
+1002,Priya Patel,19,Female,88.4,90,ISE,OBC,Admitted,650000
+1003,Rohan Gupta,18,Male,81.7,78,ECE,SC,Waiting,420000
+1004,Ananya Rao,20,Female,95.2,98,CSE,General,Admitted,1200000
+1005,Vikram Singh,21,Male,76.5,68,Mechanical,ST,Rejected,350000
+1006,Sneha Nair,18,Female,89.1,87,ECE,OBC,Admitted,700000
+1007,Karan Mehta,22,Male,69.8,55,Civil,General,Rejected,500000
+1008,Divya Iyer,19,Female,91.6,93,CSE,EWS,Admitted,800000
+1009,Arjun Kumar,18,Male,84.3,82,ISE,OBC,Waiting,560000
+1010,Neha Joshi,20,Female,87.9,85,ECE,General,Admitted,730000
+1011,Rahul Verma,19,Male,79.5,73,Mechanical,SC,Waiting,390000
+1012,Pooja Desai,18,Female,93.7,97,CSE,General,Admitted,980000
+1013,Amit Yadav,21,Male,72.4,66,Civil,OBC,Rejected,450000
+1014,Kavya Reddy,19,Female,90.2,91,ISE,General,Admitted,780000
+1015,Nikhil Jain,18,Male,85.8,83,ECE,EWS,Waiting,620000
+1016,Meera Kapoor,20,Female,94.1,99,CSE,General,Admitted,1300000
+1017,Harsh Malhotra,19,Male,77.6,71,Mechanical,OBC,Rejected,510000
+1018,Ishita Sen,18,Female,88.9,89,CSE,SC,Admitted,600000
+1019,Yash Patil,20,Male,80.3,76,Civil,General,Waiting,470000
+1020,Ritika Das,19,Female,91.8,94,ISE,EWS,Admitted,910000
+1021,Test Student,15,Male,105,110,CSE,General,Admitted,500000
+1022,Another Student,35,Female,-5,-10,ECE,OBC,Rejected,400000
+1001,Duplicate ID,19,Male,82,80,Civil,SC,Waiting,450000
