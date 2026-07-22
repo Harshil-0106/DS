@@ -1,0 +1,6 @@
+Timestamp,Location,Vehicle_Count,Average_Speed,Congestion_Level,Signal_Time,Accidents
+2026-07-01 08:00,Junction A,120,45,Medium,60,0
+2026-07-01 09:00,Junction A,150,40,High,70,1
+2026-07-01 10:00,Junction A,100,55,Low,45,0
+2026-07-01 11:00,Junction A,130,48,Medium,60,0
+2026-07-01 12:00,Junction A,170,35,High,75,2
