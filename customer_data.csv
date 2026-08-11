@@ -1,0 +1,16 @@
+CustomerID,Name,Age,Gender,City,Salary,PurchaseAmount,Membership
+101,Rahul,22,Male,Bangalore,45000,1200,Gold
+102,Priya,35,Female,Mysore,65000,2500,Silver
+103,Arjun,16,Male,Chennai,15000,800,Bronze
+104,Meena,67,Female,Delhi,72000,3000,Gold
+105,Amit,45,Male,Mumbai,55000,1800,Silver
+106,Sneha,29,Female,Hyderabad,48000,1500,Gold
+107,Karan,12,Male,Pune,0,300,Bronze
+108,Anjali,58,Female,Kolkata,68000,2700,Gold
+109,Rohan,39,Male,Ahmedabad,52000,2100,Silver
+110,Divya,71,Female,Jaipur,80000,3500,Gold
+111,Vikram,24,Male,Bangalore,47000,1600,Bronze
+112,Pooja,31,Female,Chennai,60000,2200,Silver
+113,Manoj,17,Male,Delhi,18000,900,Bronze
+114,Kavya,42,Female,Mysore,62000,2400,Gold
+115,Suresh,65,Male,Mumbai,70000,3100,Gold
